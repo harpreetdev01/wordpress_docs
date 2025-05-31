@@ -28,7 +28,8 @@ Find an image which reflects the message being convyed.
 7. High quality
 8. Leave space for text - if image is busy you cant read the text or CTA
 9. Match your brand
-10. 
+
+All images must reflect brand personality -tone, and feel
 
 --------------------------------------------------------------
 
