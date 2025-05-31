@@ -1,6 +1,17 @@
 
 # wordpress_docs
 
+## Tips:
+Better performance and SEO:
+1. Image optimization
+2. 
+
+Typography:
+1. Use rems
+2. Use em line-height, padding, and margins
+
+--------------------------------------------------------------
+
 ## Fake navigation:
 
 ## Image optimizer:
