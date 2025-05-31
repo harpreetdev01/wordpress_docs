@@ -4,13 +4,11 @@
 ## Tips:
 Better performance and SEO:
 1. Image optimization
-2. 
 
 Set Globals before working on project for being more productive:
 1. Fonts
 2. Font sizes - all devices
 3. Colors
-   
 
 Typography:
 1. Use rems
@@ -18,6 +16,19 @@ Typography:
 
 Responsive:
 Elementor - check under Responsive section
+
+Hero image:
+Find an image which reflects the message being convyed. 
+1. Process of working with the company - clients get to view. A behind-the-scenes view
+2. Face of the brand
+3. Product focused image
+4. Benefits focused image - what benefit the client gets by working with you
+5. Grab attention: humans view shapes first and then words so need a strong image
+6. Set the mood - create the atmosphere: actions
+7. High quality
+8. Leave space for text - if image is busy you cant read the text or CTA
+9. Match your brand
+10. 
 
 --------------------------------------------------------------
 
