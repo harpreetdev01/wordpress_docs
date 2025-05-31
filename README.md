@@ -6,16 +6,26 @@ Better performance and SEO:
 1. Image optimization
 2. 
 
+Set Globals before working on project for being more productive:
+1. Fonts
+2. Font sizes - all devices
+3. Colors
+   
+
 Typography:
 1. Use rems
 2. Use em line-height, padding, and margins
+
+Responsive:
+Elementor - check under Responsive section
 
 --------------------------------------------------------------
 
 ## Fake navigation:
 
 ## Image optimizer:
-Image optimizer plugin: Compress, Resize, and Optimize images
+1.Image optimizer plugin: Compress, Resize, and Optimize images
+2. Adjust hero image so it works with the context
 
 How to use? 
 1. Under media section in Wordpress panel
