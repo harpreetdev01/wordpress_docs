@@ -3,6 +3,13 @@
 
 ## Fake navigation:
 
+## Image optimizer:
+Image optimizer plugin: Compress, Resize, and Optimize images
+
+How to use? 
+1. Under media section in Wordpress panel
+2. Click Optimize All
+
 
 ## Spam gmail:
 ![image](https://github.com/user-attachments/assets/1e2a2997-1113-4f5b-ac4a-031811c5e37c)
