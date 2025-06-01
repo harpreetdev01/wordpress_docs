@@ -135,3 +135,16 @@ How to use?
 1. Appreance -> Customize
 2. Header -> Primary Menu & Transparent Header
 
+## Navigation - font size change. Can add custom css as well
+1. Customize
+2. Header
+3. Select Menu - example: primary
+4. Design -> font size
+
+## Global settings:
+1. Colors
+2. Fonts
+
+
+
+
