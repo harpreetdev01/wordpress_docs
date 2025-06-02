@@ -164,6 +164,7 @@ If a certain element isn't working on any given device, check to see if its hidd
 
 If email links dont open in the browser and you see - mailto:"emailaddress" it means there is an issue on the browser. Need to allow the setting.
 https://stackoverflow.com/questions/17517600/mailto-links-do-nothing-in-chrome-but-work-in-firefox
+https://www.youtube.com/watch?v=lqojvnSudCo
 
 
 
