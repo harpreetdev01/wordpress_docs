@@ -141,6 +141,30 @@ How to use?
 3. Select Menu - example: primary
 4. Design -> font size
 
+Navigation links:
+![image](https://github.com/user-attachments/assets/87db2290-dc1e-4e01-afa9-3d8308b1369d)
+Instead go to Menus -> Appreances -> Customize:
+![image](https://github.com/user-attachments/assets/5de4eabb-c83c-40f0-a4a1-9e6a10a3d59e)
+![image](https://github.com/user-attachments/assets/67267256-0992-41f4-b934-779923950079)
+Delete all Invalid values
+
+Now create custom links and connect them to sections you want to go to on your single page website:
+1. ![image](https://github.com/user-attachments/assets/ff0fa240-f416-40f4-86c4-86aba1718a15)
+2. ![image](https://github.com/user-attachments/assets/0f5a96b7-09b3-40dc-ac41-c6b6bc197795)
+3. Link section with header menu link
+   ![image](https://github.com/user-attachments/assets/f9a06715-9370-4d95-823b-2148fdcc56b1)
+
+## Email via button/link:
+![image](https://github.com/user-attachments/assets/ce3a7a03-fa5e-4022-aa1b-0751f6b654cc)
+
+
+
+
+
+
+
+
+
 ## Global settings:
 1. Colors
 2. Fonts
