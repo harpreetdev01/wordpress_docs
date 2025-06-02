@@ -158,6 +158,9 @@ Now create custom links and connect them to sections you want to go to on your s
 ![image](https://github.com/user-attachments/assets/ce3a7a03-fa5e-4022-aa1b-0751f6b654cc)
 
 
+Tip:
+If a certain element isn't working on any given device, check to see if its hidden via elementor:
+![image](https://github.com/user-attachments/assets/d6892414-06b9-4f0c-8020-00447700ef23)
 
 
 
