@@ -162,6 +162,9 @@ Tip:
 If a certain element isn't working on any given device, check to see if its hidden via elementor:
 ![image](https://github.com/user-attachments/assets/d6892414-06b9-4f0c-8020-00447700ef23)
 
+If email links dont open in the browser and you see - mailto:"emailaddress" it means there is an issue on the browser. Need to allow the setting.
+https://stackoverflow.com/questions/17517600/mailto-links-do-nothing-in-chrome-but-work-in-firefox
+
 
 
 
